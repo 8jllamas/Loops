@@ -13,9 +13,11 @@ console.log("Done Son!")
 
 }
 
-function loopTwo(){
+function loopTwo(number,power){
 
+let sum = 0;
 
+for(let number = 0; number < power; number = ++){}
 }
 
 function loopThree(){
